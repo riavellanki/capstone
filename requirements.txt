@@ -1,6 +1,5 @@
 streamlit
 scikit-learn
 pandas
-joblib
-cryptography
-numpy
+joblib==1.4.2
+cryptography==42.0.5
