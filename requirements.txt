@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+pandas
+joblib
+cryptography
+numpy
+pickle
+io
